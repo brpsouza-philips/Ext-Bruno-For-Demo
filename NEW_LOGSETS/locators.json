@@ -76,8 +76,8 @@
     "DT_ATUALIZACAO" : "23/12/2025 13:42:17"
   }, {
     "$operation" : "MERGE",
-    "DT_ATUALIZACAO_NREC" : "12/02/2026 14:41:17",
-    "DS_LOCALIZADOR" : "Loc ext bruno for demo 2 ",
+    "DT_ATUALIZACAO_NREC" : "12/02/2026 14:35:21",
+    "DS_LOCALIZADOR" : "Loc ext bruno for demo 2 teste",
     "IE_RESTRINGE_ESTAB" : "N",
     "IE_APRESENTACAO" : "N",
     "TIPO_LOCALIZADOR_CLIENTE" : [ ],

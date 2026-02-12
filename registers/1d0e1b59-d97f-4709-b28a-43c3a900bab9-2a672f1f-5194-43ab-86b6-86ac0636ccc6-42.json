@@ -1,0 +1,56 @@
+{
+  "changes" : [ {
+    "event_info" : {
+      "date" : "12/02/2026 14:35:28",
+      "date_format" : "dd/mm/rrrr hh24:mi:ss",
+      "dml_operation" : "UPDATE",
+      "sequence" : 500042,
+      "table_name" : "TIPO_LOCALIZAR",
+      "tag_name" : "CMDK",
+      "tasy_user" : "brpsouza",
+      "guid" : "0b68db8f-ff5a-4d6d-a20e-b4354055617a"
+    },
+    "server_info" : {
+      "charset" : "AMERICAN_AMERICA.AL32UTF8",
+      "database_version" : "19.0",
+      "instance_name" : "phcdb4"
+    },
+    "session_info" : {
+      "machine" : "8655c450e6c9",
+      "os_user" : "root",
+      "tasy_user" : "brpsouza"
+    },
+    "primary_key_values" : [ {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 26320,
+      "old_value" : 26320
+    } ],
+    "column_values" : [ {
+      "column_name" : "DT_ATUALIZACAO_NREC",
+      "data_type" : "DATE",
+      "new_value" : "12/02/2026 14:35:21",
+      "old_value" : "21/01/2026 17:51:45"
+    }, {
+      "column_name" : "DT_ATUALIZACAO",
+      "data_type" : "DATE",
+      "new_value" : "19/01/2026 11:12:12",
+      "old_value" : "19/01/2026 14:12:12"
+    }, {
+      "column_name" : "DS_LOCALIZADOR",
+      "data_type" : "VARCHAR2",
+      "new_value" : "Loc ext bruno for demo 2 teste",
+      "old_value" : "Loc ext bruno for demo 2"
+    }, {
+      "column_name" : "NR_SEQUENCIA",
+      "data_type" : "NUMBER",
+      "new_value" : 26320,
+      "old_value" : 26320
+    }, {
+      "column_name" : "DS_LAYER",
+      "data_type" : "VARCHAR2",
+      "new_value" : null,
+      "old_value" : "CORE.CMDK_LTDA"
+    } ]
+  } ]
+}
